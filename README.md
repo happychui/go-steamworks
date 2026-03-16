@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hajimehoshi/go-steamworks"
+	"github.com/happychui/go-steamworks"
 	"golang.org/x/text/language"
 )
 
