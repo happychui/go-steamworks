@@ -102,14 +102,14 @@ const (
 	flatAPI_InitFlat              = "SteamAPI_InitFlat"
 	flatAPI_RunCallbacks          = "SteamAPI_RunCallbacks"
 
-	flatAPI_SteamApps                         = "SteamAPI_SteamApps_v008"
+	flatAPI_SteamApps                         = "SteamAPI_SteamApps_v009"
 	flatAPI_ISteamApps_BGetDLCDataByIndex     = "SteamAPI_ISteamApps_BGetDLCDataByIndex"
 	flatAPI_ISteamApps_BIsDlcInstalled        = "SteamAPI_ISteamApps_BIsDlcInstalled"
 	flatAPI_ISteamApps_GetAppInstallDir       = "SteamAPI_ISteamApps_GetAppInstallDir"
 	flatAPI_ISteamApps_GetCurrentGameLanguage = "SteamAPI_ISteamApps_GetCurrentGameLanguage"
 	flatAPI_ISteamApps_GetDLCCount            = "SteamAPI_ISteamApps_GetDLCCount"
 
-	flatAPI_SteamFriends                  = "SteamAPI_SteamFriends_v017"
+	flatAPI_SteamFriends                  = "SteamAPI_SteamFriends_v018"
 	flatAPI_ISteamFriends_GetPersonaName  = "SteamAPI_ISteamFriends_GetPersonaName"
 	flatAPI_ISteamFriends_SetRichPresence = "SteamAPI_ISteamFriends_SetRichPresence"
 
